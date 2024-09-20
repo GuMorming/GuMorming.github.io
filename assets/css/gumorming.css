@@ -1,0 +1,161 @@
+@import "theme-gumorming.css";
+@import "markdown.css";
+@import "pace.css";
+@import 'scroll.css';
+@import "footer.css";
+
+/* gumorming-page顶部样式 */
+#page:has(#gumorming_page) {
+    border: 0;
+    box-shadow: none !important;
+    padding: 0 !important;
+    background: transparent !important;
+}
+
+#web_bg ~ .page:has(#gumorming_page) {
+    background: var(--card-bg);
+}
+
+/* page背景调整 */
+.gumorming-content.gumorming-content-item.gumormingPage {
+    height: 19rem;
+    color: var(--gumorming-white);
+    overflow: hidden;
+    margin-top: 0;
+    border-radius: 12px;
+    border: var(--style-border-always);
+    box-shadow: var(--gumorming-shadow-border);
+}
+
+.gumorming-content-item .gumorming-card-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 2rem;
+}
+
+.gumorming-content-item .gumorming-content-item-tips {
+    opacity: .8;
+    font-size: .6rem;
+    margin-bottom: .5rem;
+}
+
+.gumorming-content-item .gumorming-card-content .gumorming-content-item-title {
+    margin-bottom: .5rem;
+}
+
+.gumorming-content-item .gumorming-content-item-title {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.gumorming-content-item .gumorming-content-bottom {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gumorming-content-item .gumorming-content-bottom .gumorming-tips {
+    font-weight: bold;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.gumorming-content-item .gumorming-card-content .gumorming-change-button-group .gumorming-change-button {
+    height: 40px;
+    width: auto;
+    padding: 0 22px;
+    border-radius: 20px;
+    justify-content: center;
+    background: var(--gumorming-white);
+    color: var(--gumorming-black);
+    display: flex;
+    align-items: center;
+    transition: .3s;
+    cursor: pointer;
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    transform: translateZ(0);
+    box-shadow: 0 8px 16px -4px var(--gumorming-black-op);
+}
+
+.gumorming-content-item .gumorming-card-content .gumorming-change-button-group .gumorming-change-button i {
+    margin-right: 4px;
+    font-weight: bold;
+}
+
+#page:has(#gumorming_page) .gumorming-content-item .gumorming-card-content .gumorming-change-button-group .gumorming-change-button:hover {
+    background: var(--gumorming-blue);
+    color: var(--gumorming-white);
+}
+
+/* 响应式 */
+@media screen and (max-width: 768px) {
+    .gumorming-content-item .gumorming-card-content {
+        padding: 1rem 1rem;
+    }
+
+    .gumorming-content-item .gumorming-card-content .gumorming-change-button-group .gumorming-change-button {
+        width: 60px;
+    }
+
+    .gumorming-content-item .gumorming-card-content .gumorming-change-button-group .gumorming-change-button i {
+        margin-right: -3px;
+    }
+
+    .gumorming-content-item .gumorming-card-content .gumorming-change-button-group .gumorming-change-button-text {
+        display: none;
+    }
+}
+
+/* 重新定义宽度 */
+.layout {
+    width: 100%;
+    max-width: 1400px;
+}
+
+/* 定义是否侧边栏的宽度 */
+.layout > div:first-child {
+    width: 100%;
+}
+
+#post {
+    width: 78%;
+}
+
+.aside-content {
+    max-width: 312px;
+    min-width: 300px;
+}
+
+.layout.hide-aside {
+    max-width: 1400px;
+}
+
+/* 主页文章列表图片宽度 */
+#recent-posts > .recent-post-item {
+    height: 19em;
+    border: var(--style-border);
+}
+
+#recent-posts > .recent-post-item > .recent-post-info {
+    padding: 0 56px;
+    width: 64%;
+}
+
+@media screen and (max-width: 768px) {
+    #recent-posts > .recent-post-item {
+        height: auto;
+    }
+
+    #recent-posts > .recent-post-item > .recent-post-info {
+        padding: 20px 20px 30px;
+        width: 100%;
+        text-align: center;
+    }
+}
