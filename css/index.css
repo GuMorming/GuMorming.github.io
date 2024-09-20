@@ -3931,7 +3931,11 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   height: 100%;
   position: fixed;
-  background: var(--icat-card-bg);
+  background: -webkit-linear-gradient(135deg, #ec8c69, #e9546b, #38a1db, #23d5ab);
+  background: -moz-linear-gradient(135deg, #ec8c69, #e9546b, #38a1db, #23d5ab);
+  background: -o-linear-gradient(135deg, #ec8c69, #e9546b, #38a1db, #23d5ab);
+  background: -ms-linear-gradient(135deg, #ec8c69, #e9546b, #38a1db, #23d5ab);
+  background: linear-gradient(-45deg, #ec8c69, #e9546b, #38a1db, #23d5ab);
   z-index: 1001;
   opacity: 1;
   -ms-filter: none;

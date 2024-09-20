@@ -48,7 +48,7 @@
     --gumorming-post-tabs-bg: #f2f5f8;
     --gumorming-secondbg: #f1f3f8;
     --gumorming-shadow-nav: 0 5px 12px -5px rgba(102, 68, 68, 0.05);
-    --gumorming-card-bg: #fff;
+    --gumorming-card-bg: linear-gradient(-45deg, #ec8c69, #e9546b, #38a1db, #23d5ab);
     --gumorming-card-bg-op: var(--gumorming-black-op);
     --gumorming-card-bg-none: rgba(255, 255, 255, 0);
     --gumorming-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0.00);
