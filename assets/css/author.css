@@ -1,0 +1,13 @@
+.author-name {
+    margin-top: 0.5rem;
+    font-weight: 400;
+    text-align: center;
+    color: var(--grey-7);
+}
+
+.site-desc {
+    margin-top: 0.5rem;
+    font-size: 1em;
+    text-align: center;
+    color: var(--grey-5);
+}

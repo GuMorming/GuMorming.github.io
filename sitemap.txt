@@ -1,3 +1,5 @@
+https://gumorming.github.io/assets/styles/common.css
+https://gumorming.github.io/assets/styles/mixin.css
 https://gumorming.github.io/about/
 https://gumorming.github.io/article/4a17b156/
 https://gumorming.github.io/article/c6c0812d/

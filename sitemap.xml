@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://gumorming.github.io/assets/styles/common.css</loc>
+        
+        <lastmod>2024-09-20</lastmod>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/assets/styles/mixin.css</loc>
+        
+        <lastmod>2024-09-20</lastmod>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
         <loc>https://gumorming.github.io/about/</loc>
         
         <lastmod>2024-09-20</lastmod>

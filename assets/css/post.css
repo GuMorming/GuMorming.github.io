@@ -1,0 +1,17 @@
+.article-title {
+    font-weight: 500;
+    font-size: 2.5rem;
+    letter-spacing: 0.125rem;
+    text-align: center;
+    color: var(--header-text-color);
+}
+
+.article-meta {
+    @include flex;
+    flex-direction: column;
+    font-size: 0.875rem;
+
+    .item {
+        margin-left: 0.625rem;
+    }
+}
