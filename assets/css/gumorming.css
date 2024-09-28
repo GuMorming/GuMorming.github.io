@@ -86,7 +86,8 @@ a {
 
 /* 重新定义宽度 */
 .layout {
-    width: 100%;
+    width: 85%;
+
     max-width: 1400px;
 }
 
@@ -129,6 +130,9 @@ a {
         width: 100%;
         text-align: center;
     }
+}
+.article-title{
+    color: var(--primary-color);
 }
 
 /* categories & tags item*/

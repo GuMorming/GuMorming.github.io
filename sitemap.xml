@@ -236,20 +236,6 @@
 
     
     <url>
-        <loc>https://gumorming.github.io/tags/NYT/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/English-Reading/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
         <loc>https://gumorming.github.io/tags/%E5%90%B4%E6%81%A9%E8%BE%BE/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
@@ -271,21 +257,21 @@
     </url>
     
     <url>
+        <loc>https://gumorming.github.io/tags/NYT/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/tags/English-Reading/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
         <loc>https://gumorming.github.io/tags/Regression/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/Feature-Scaling/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/Time/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,42 +285,14 @@
     </url>
     
     <url>
-        <loc>https://gumorming.github.io/tags/Logistic-Regression/</loc>
+        <loc>https://gumorming.github.io/tags/Time/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
-        <loc>https://gumorming.github.io/tags/Classification/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/Regularization/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/Underfitting/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/Overfitting/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+        <loc>https://gumorming.github.io/tags/Feature-Scaling/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -355,13 +313,6 @@
     </url>
     
     <url>
-        <loc>https://gumorming.github.io/tags/ICML%E2%80%982023/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
         <loc>https://gumorming.github.io/tags/Survey/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
@@ -370,6 +321,20 @@
     
     <url>
         <loc>https://gumorming.github.io/tags/Inference/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/tags/Logistic-Regression/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/tags/Classification/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -390,7 +355,21 @@
     </url>
     
     <url>
+        <loc>https://gumorming.github.io/tags/ICML%E2%80%982023/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
         <loc>https://gumorming.github.io/tags/Quantization/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -424,14 +403,28 @@
         <priority>0.2</priority>
     </url>
     
-
-    
     <url>
-        <loc>https://gumorming.github.io/categories/Learn-Record/</loc>
+        <loc>https://gumorming.github.io/tags/Regularization/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/tags/Underfitting/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/tags/Overfitting/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+
     
     <url>
         <loc>https://gumorming.github.io/categories/Machine-Learning/</loc>
@@ -441,7 +434,7 @@
     </url>
     
     <url>
-        <loc>https://gumorming.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+        <loc>https://gumorming.github.io/categories/Learn-Record/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -449,6 +442,13 @@
     
     <url>
         <loc>https://gumorming.github.io/categories/Paper-Reading/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
         <lastmod>2024-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
