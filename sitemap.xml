@@ -326,13 +326,6 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/tags/ACL-2024/</loc>
-        <lastmod>2024-10-02</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
         <loc>https://gumorming.cn/tags/Regression/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
@@ -341,6 +334,13 @@
     
     <url>
         <loc>https://gumorming.cn/tags/Gradient-Descent/</loc>
+        <lastmod>2024-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.cn/tags/Feature-Scaling/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -361,7 +361,7 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/tags/Feature-Scaling/</loc>
+        <loc>https://gumorming.cn/tags/ACL-2024/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -403,14 +403,14 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/tags/%E4%BA%94%E5%8D%81%E9%9F%B3/</loc>
+        <loc>https://gumorming.cn/tags/KV-Cache/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
-        <loc>https://gumorming.cn/tags/KV-Cache/</loc>
+        <loc>https://gumorming.cn/tags/%E4%BA%94%E5%8D%81%E9%9F%B3/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -431,14 +431,21 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/tags/ICLR-2024/</loc>
+        <loc>https://gumorming.cn/tags/%E9%9F%B3%E8%B0%83/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
-        <loc>https://gumorming.cn/tags/%E9%9F%B3%E8%B0%83/</loc>
+        <loc>https://gumorming.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
+        <lastmod>2024-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.cn/tags/ICLR-2024/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -453,13 +460,6 @@
     
     <url>
         <loc>https://gumorming.cn/tags/%E7%AB%8B%E7%BB%98/</loc>
-        <lastmod>2024-10-02</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -503,13 +503,6 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/categories/Game/</loc>
-        <lastmod>2024-10-02</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
         <loc>https://gumorming.cn/categories/%E6%B5%8B%E8%AF%95/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
@@ -517,7 +510,7 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/categories/%E6%97%A5%E8%AF%AD%E8%87%AA%E5%AD%A6/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A/</loc>
+        <loc>https://gumorming.cn/categories/Game/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -525,6 +518,13 @@
     
     <url>
         <loc>https://gumorming.cn/categories/Game/BlueArchive/</loc>
+        <lastmod>2024-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.cn/categories/%E6%97%A5%E8%AF%AD%E8%87%AA%E5%AD%A6/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A/</loc>
         <lastmod>2024-10-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
