@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://gumorming.cn/article/85faec89/</loc>
+        
+        <lastmod>2024-10-04</lastmod>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://gumorming.cn/article/ed80c79d/</loc>
+        
+        <lastmod>2024-10-04</lastmod>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
         <loc>https://gumorming.cn/artitalk/</loc>
         
         <lastmod>2024-10-02</lastmod>
@@ -21,15 +39,6 @@
     
     <url>
         <loc>https://gumorming.cn/article/dd8da93c/</loc>
-        
-        <lastmod>2024-09-30</lastmod>
-        
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://gumorming.cn/article/85faec89/</loc>
         
         <lastmod>2024-09-30</lastmod>
         
@@ -200,15 +209,6 @@
     </url>
     
     <url>
-        <loc>https://gumorming.cn/article/ed80c79d/</loc>
-        
-        <lastmod>2024-09-29</lastmod>
-        
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
         <loc>https://gumorming.cn/assets/styles/common.css</loc>
         
         <lastmod>2024-09-20</lastmod>
@@ -256,7 +256,7 @@
 
     <url>
         <loc>https://gumorming.cn/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -264,210 +264,210 @@
     
     <url>
         <loc>https://gumorming.cn/tags/NYT/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/English-Reading/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Time/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E5%90%B4%E6%81%A9%E8%BE%BE/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E6%9D%8E%E5%AE%8F%E6%AF%85/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E6%A6%82%E8%BF%B0/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Survey/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/LLM/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Inference/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Regression/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Gradient-Descent/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Feature-Scaling/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Logistic-Regression/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Classification/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/ACL-2024/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Regularization/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Underfitting/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Overfitting/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/OSDI-2024/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/ICML%E2%80%982023/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/KV-Cache/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E4%BA%94%E5%8D%81%E9%9F%B3/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Quantization/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/Distributed/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E9%9F%B3%E8%B0%83/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/ICLR-2024/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E5%92%8C%E8%B0%90/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E7%AB%8B%E7%BB%98/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/tags/%E6%96%B0%E6%A0%87%E6%97%A5/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -476,56 +476,56 @@
     
     <url>
         <loc>https://gumorming.cn/categories/Learn-Record/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/Machine-Learning/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/Paper-Reading/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/%E6%97%A5%E8%AF%AD%E8%87%AA%E5%AD%A6/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/Game/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/Game/BlueArchive/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     
     <url>
         <loc>https://gumorming.cn/categories/%E6%97%A5%E8%AF%AD%E8%87%AA%E5%AD%A6/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A/</loc>
-        <lastmod>2024-10-02</lastmod>
+        <lastmod>2024-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
